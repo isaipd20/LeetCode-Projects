@@ -16,3 +16,6 @@ You can return the answer in any order.
 # 🛠 Created with
 - Programming language: java
 - Tools/Technologies: leetcode
+
+# 💎 Submission Detail
+Link: [here](https://leetcode.com/submissions/detail/1060166180/)
