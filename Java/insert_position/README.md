@@ -6,7 +6,7 @@ You must write an algorithm with O(log n) runtime complexity.
 <br><br>
 Example:
 <br>
-Input: nums = [1,3,5,6], target = 5
+Input: nums = [1,3,5,6], target = 5 <br>
 Output: 2
 
 # 📜 Plan/Problems
