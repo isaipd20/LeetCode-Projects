@@ -1,7 +1,7 @@
 
 # 💼 LeetCode-Projects <a name="about-project"></a>
 <br>
-In this repository, I added all my responses to leetcode problems using Java, C++ & Python. My goal is to add new solved problems every week. <br><br>
+In this repository, I added all my responses to leetcode problems using Java, C++ & Python. My goal is to add new solved problems every week with proper documentation. <br><br>
 Problems are provided by LeetCode.
 
 # 🛠 Created with
