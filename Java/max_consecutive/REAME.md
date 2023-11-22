@@ -5,7 +5,8 @@ Given a binary array nums, return the maximum number of consecutive 1's in the a
 Example:
 <br>
 Input: nums = [1,1,0,1,1,1] <br>
-Output: 3
+Output: 3 <br>
+Explanation: 3 is the last maxium count of ones.
 
 # 📜 Plan/Problems
 1. Create a loop where it checks for ones.
