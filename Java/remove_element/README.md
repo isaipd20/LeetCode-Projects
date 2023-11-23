@@ -9,7 +9,7 @@ Change the array nums such that the first k elements of nums contain the element
 Return k. <br><br>
 
 Input: nums = [3,2,2,3], val = 3 <br>
-Output: 2, nums = [2,2,_,_]
+Output: nums = [2,2,-,-]
 
 # 📜 Plan/Problems
 1. Create a loop where it iterates through the array of numbers.
