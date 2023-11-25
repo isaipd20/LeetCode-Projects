@@ -13,9 +13,10 @@ Output: nums = [2,2,-,-]
 
 # 📜 Plan/Problems
 1. Create a loop where it iterates through the array of numbers.
-2. If the number is equal to the value number, skip it and continue.
-3. Else, put the number in a new array.
-4. Return new array.
+2. Create a new array with the same size of the other array.
+3. If the number is equal to the value number, skip it and continue.
+4. Else, put the number in a new array.
+5. Return new array.
 
 # 🛠 Created with
 - Programming language: java
