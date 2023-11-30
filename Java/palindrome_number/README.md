@@ -3,7 +3,7 @@
 Given an integer x, return true if x is a palindrome, and false otherwise.
 <br><br>
 Example 1:
-<br>
+<br><br>
 Input: x = 121 <br>
 Output: true
 
