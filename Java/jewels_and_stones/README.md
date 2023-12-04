@@ -7,7 +7,7 @@ Letters are case sensitive, so "a" is considered a different type of stone from 
 <br><br> 
 
 Example 1:
-<br>
+<br><br>
 Input: jewels = "aA", stones = "aAAbbbb"<br>
 Output: 3
 
