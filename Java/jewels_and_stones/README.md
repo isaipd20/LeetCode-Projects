@@ -1,5 +1,5 @@
 
-# 💼 Length of last word<a name="about-project"></a>
+# 💼 Jewels and Stones<a name="about-project"></a>
 You're given strings jewels representing the types of stones that are jewels, and stones representing the stones you have. <br>
 Each character in stones is a type of stone you have. You want to know how many of the stones you have are also jewels.
 <br>
