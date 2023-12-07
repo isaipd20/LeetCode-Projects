@@ -1,5 +1,5 @@
 
-# 💼 Search Convert Temperature<a name="about-project"></a>
+# 💼 Convert Temperature<a name="about-project"></a>
 You are given a non-negative floating point number rounded to two decimal places celsius, that denotes the temperature in Celsius.
 <br>
 You should convert Celsius into Kelvin and Fahrenheit and return it as an array ans = [kelvin, fahrenheit].
