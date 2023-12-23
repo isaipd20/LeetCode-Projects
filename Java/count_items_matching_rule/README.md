@@ -1,7 +1,7 @@
 
 # 💼 Count Items Matching a Rule<a name="about-project"></a>
 You are given an array items, where each items[i] = [typei, colori, namei] describes the type, color, and name of the ith item. You are also given a rule represented by two strings, ruleKey and ruleValue.
-<br>
+<br><br>
 The ith item is said to match the rule if one of the following is true:
 <br>
 ruleKey == "type" and ruleValue == typei. <br>
