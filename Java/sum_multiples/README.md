@@ -13,7 +13,7 @@ Explanation: Numbers in the range [1, 7] that are divisible by 3, 5, or 7 are 3,
 
 # 📜 Plan/Problems
 1. Create a loop where it goes from 1 to the given number n.
-2. Check if the number is divisible by 3, 5 or 7.
+2. Check if the number is divisible by 3, 5 or 7, only one of them.
 3. If it is divisible, then add that number to the result.
 4. return result.
 
