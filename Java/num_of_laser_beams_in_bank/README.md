@@ -1,6 +1,7 @@
 
 # 💼 Number of Laser Beams in a Bank<a name="about-project"></a>
-Anti-theft security devices are activated inside a bank. You are given a 0-indexed binary string array bank representing the floor plan of the bank, <br>
+Anti-theft security devices are activated inside a bank. <br>
+You are given a 0-indexed binary string array bank representing the floor plan of the bank, <br>
 which is an m x n 2D matrix. bank[i] represents the ith row, consisting of '0's and '1's. '0' means the cell is empty, <br>
 while'1' means the cell has a security device.
 <br><br>
