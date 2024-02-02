@@ -1,0 +1,27 @@
+
+# 💼 Subtract the Product and Sum of Digits of an Integer<a name="about-project"></a>
+Given an integer number n, return the difference between the product of its digits and the sum of its digits.
+<br><br>
+
+Example 1:
+<br>
+Input: n = 234<br>
+Output: 15 <br><br>
+Explanation: <br>
+Product of digits = 2 * 3 * 4 = 24 <br>
+Sum of digits = 2 + 3 + 4 = 9 <br>
+Result = 24 - 9 = 15
+
+# 📜 Plan/Problems
+1. Create a loop to get every number of the int.
+2. Multiply and add that number to the corresponding sum.
+3. The result will be the sum of mul every number minus the sum of adding the nums.
+4. Return the result.
+
+
+# 🛠 Created with
+- Programming language: java
+- Tools/Technologies: leetcode
+
+# 💎 Submission Detail
+Link: [here](https://leetcode.com/submissions/detail/1162698087/)
